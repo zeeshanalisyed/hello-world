@@ -1,3 +1,3 @@
-<h1> Hello, Welcome to Amadeus Labs </h1>
-<h2> testing ansible playbooks for deployments </h2>
+<h1> Welcome to Valaxy Technologies </h1>
+<h2> Deploying using jenkins pipeline scripts </h2>
 
