@@ -2,7 +2,7 @@ pipeline {
     agent any
     tools { 
         maven 'Maven 2.2.1' 
-        jdk 'null' 
+        jdk 'jdk' 
     }
     stages {
         stage("clone code"){
